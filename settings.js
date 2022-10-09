@@ -36,7 +36,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94789316567'] //ur owner number
+global.vcardowner = ['94765469818'] //ur owner number
 global.ownername = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
@@ -46,7 +46,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['94789316567']
 global.ownertag = '94789316567' //ur tag number
 global.botnumber = '94789316567' //Add your Bot Number For Log
-global.botname = '𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴ EDITION' //ur bot name
+global.botname = '𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴ ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.grouplink = "https://chat.whatsapp.com/BQsypIzMslP7SFlMrDnQcx" //ur website to be displayed
 global.grouplink = 'https://chat.whatsapp.com/BQsypIzMslP7SFlMrDnQcx' //script link
@@ -55,7 +55,7 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴" //ur sticker watermark packname
 global.author = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴" //ur sticker watermark author
-global.footer = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴ "
 global.aliveimg ="https://i.ibb.co/QkVs9CV/Whats-App-Image-2022-09-28-at-8-20-22-PM.jpg"
 global.allmenuimg ="https://i.ibb.co/QkVs9CV/Whats-App-Image-2022-09-28-at-8-20-22-PM.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
