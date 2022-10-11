@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94765469818'] //ur owner number
-global.ownername = "*_𓄂᳆⃞⚔️̶͟͞☬_ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴*" //ur owner name
+global.ownername = "𓄂᳆⃞⚔️̶͟͞☬ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -60,7 +60,7 @@ global.aliveimg ="https://i.ibb.co/QkVs9CV/Whats-App-Image-2022-09-28-at-8-20-22
 global.allmenuimg ="https://i.ibb.co/QkVs9CV/Whats-App-Image-2022-09-28-at-8-20-22-PM.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "*HI I AM* *_𓄂᳆⃞⚔️̶͟͞☬_ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴*"
+global.alivemsg = "*HI* *_𓄂᳆⃞⚔️̶͟͞☬_ ᴋ᷍ɪͥɴᷧɢⷨ ʀⷡᴜⷪꜱⷮʜ᷍  ͡ ➴*"
 
 "_DESIGNED BY RASH_"
 
